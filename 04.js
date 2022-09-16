@@ -12,6 +12,6 @@
  */
 let name = "Dima"
 let lastname = "Tsuganovskij"
-let prof = "it"
+let prof = "developer"
 let c = "Меня зовут" +name +' '+ lastname +' ' + 'и я будущий'+ prof
 console.log(c)
